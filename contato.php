@@ -1,3 +1,3 @@
 <?php
-echo "Lucchesi, vacilao";
+echo "Lucchesi, careca";
 ?>
